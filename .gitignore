@@ -1,0 +1,41 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled source
+*.out
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Static / dynamic libraries
+*.a
+*.lib
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Logs and databases
+*.log
+
+# IDE / editor specific
+.vscode/
+.idea/
+*.swp
+*~
+
+# Mac / Linux system files
+.DS_Store
+Thumbs.db
+
+# Build directories
+build/
+bin/
