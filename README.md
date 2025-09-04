@@ -78,3 +78,5 @@ int n; scanf("%d", &n);
 - `file not found: stdio.h`: ensure Xcode CLT is installed: `xcode-select --install`.
 - `permission denied` when running: ensure you run `./programName` (note the `./`).
 - No output/newline issues: add `\n` to your printf format strings.
+- username@Mac template % chmod +x main
+- username@Mac template % ./main
